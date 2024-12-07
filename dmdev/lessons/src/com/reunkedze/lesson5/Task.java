@@ -1,4 +1,4 @@
-package com.reunkedze.oopLesson1;
+package com.reunkedze.lesson5;
 
 /**
  *
